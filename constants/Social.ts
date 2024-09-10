@@ -8,6 +8,8 @@ const social = {
   email: "alwazkazi3@gmail.com",
   github: "https://github.com/Alwaz",
   linkedin: "https://www.linkedin.com/in/alwaz-qazi/",
+  medium: "https://medium.com/@alwazkazi3",
+  dev: "https://dev.to/alwaz",
   locale: "en",
 };
 

@@ -2,8 +2,8 @@ import React from "react";
 import SectionContainer from "./SectionContainer";
 import Link from "next/link";
 import social from "@/constants/Social";
-import { AiFillFacebook, AiFillLinkedin } from "react-icons/ai";
-import { FaGithub, FaSpotify } from "react-icons/fa";
+import { AiFillLinkedin } from "react-icons/ai";
+import { FaGithub, FaMedium, FaDev } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -41,22 +41,22 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href={social.spotify}
+                  href={social.medium}
                   target="_blank"
                   rel="noreferrer"
-                  aria-label="spotify"
+                  aria-label="medium"
                 >
-                  <FaSpotify className="sm:text-lg" />
+                  <FaMedium className="sm:text-lg" />
                 </a>
               </li>
               <li>
                 <a
-                  href={social.facebook}
+                  href={social.dev}
                   target="_blank"
                   rel="noreferrer"
-                  aria-label="facebook"
+                  aria-label="dev.to"
                 >
-                  <AiFillFacebook className="sm:text-lg" />
+                  <FaDev className="sm:text-lg" />
                 </a>
               </li>
             </ul>
