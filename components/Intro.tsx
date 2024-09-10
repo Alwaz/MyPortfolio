@@ -64,8 +64,8 @@ export default function Intro() {
             className="introText inline-block"
             style={{ opacity: opacityForBlock(progress, 2) }}
           >
-            Building the future with creativity and caffeine. Join me on this
-            exciting digital journey.
+            Transforming Ideas into Products. Join me on this exciting digital
+            journey.
           </span>
         </div>
       </div>

@@ -7,7 +7,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import LenisProvider from "@/components/Providers/LenisProvider";
 import { ThemeProvider } from "@/components/Providers/ThemeProvider";
-import og from "@/public/og.jpeg";
+import og from "@/public/og.png";
 
 export const fontSans = FontSans({
   subsets: ["latin"],
@@ -20,11 +20,11 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://mohamedboukthir.vercel.app/"),
   title: "Alwaz Qazi | Portfolio",
   description:
-    "Building the future with creativity and caffeine. Join me on this exciting digital journey.",
+    "Transforming ideas into Products. Join me on this exciting digital journey.",
   openGraph: {
     title: "Alwaz Qazi | Portfolio",
     description:
-      "Building the future with creativity and caffeine. Join me on this exciting digital journey.",
+      "Transforming ideas into Products. Join me on this exciting digital journey.",
     url: "https://mohamedboukthir.vercel.app/",
     siteName: "mohamedboukthir.vercel.app",
     type: "website",
