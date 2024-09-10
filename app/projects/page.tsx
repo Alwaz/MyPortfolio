@@ -2,8 +2,8 @@ import Projects from "@/components/Projects/Projects";
 import SectionContainer from "@/components/SectionContainer";
 
 export const metadata = {
-  title: "Projects - Mohamed Boukthir",
-  description: "My projects - Mohamed Boukthir",
+  title: "Projects - Alwaz Qazi",
+  description: "My projects - Alwaz Qazi",
 };
 
 export default function page() {
@@ -11,7 +11,7 @@ export default function page() {
     <SectionContainer>
       <div className="space-y-2 pt-2 md:space-y-5 ">
         <h1 className="flex items-center justify-center text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
-          My Projcts
+          My Projects
         </h1>
         <p className="text-lg text-gray-500 dark:text-gray-400">
           Here are some of my most important and recent projects that I have

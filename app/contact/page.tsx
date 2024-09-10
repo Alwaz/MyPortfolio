@@ -2,8 +2,8 @@ import Contact from "@/components/Contact/Contact";
 import MainLayout from "@/components/layouts/MainLayout";
 
 export const metadata = {
-  title: "Contact - Mohamed Boukthir",
-  description: "Contact me- Mohamed Boukthir",
+  title: "Contact - Alwaz Qazi",
+  description: "Contact me- Alwaz Qazi",
 };
 
 export default function page() {
@@ -14,11 +14,11 @@ export default function page() {
           Contact
         </h1>
         <p className="text-lg text-gray-500 dark:text-gray-400">
-          Let&apos;s Connect! Get in touch with me through the contact form below.
-          Whether you have a project in mind, want to discuss potential
-          collaborations, or just want to say hello, I&apos;m all ears. Your messages
-          are the keystrokes that keep my coding journey exciting. Looking
-          forward to hearing from you soon!
+          Let&apos;s Connect! Get in touch with me through the contact form
+          below. Whether you have a project in mind, want to discuss potential
+          collaborations, or just want to say hello, I&apos;m all ears. Your
+          messages are the keystrokes that keep my coding journey exciting.
+          Looking forward to hearing from you soon!
         </p>
       </div>
       <div className="mt-5 w-full h-px bg-zinc-800" />
