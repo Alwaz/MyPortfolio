@@ -27,7 +27,7 @@ export default function Contact() {
               </span>{" "}
               <div className="z-10 flex flex-col items-center">
                 <span className="text-xl sm:text-md font-medium duration-150 lg:text-xl xl:text-2xl text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
-                  MohamedBoukthir
+                  Alwaz
                 </span>
                 <span className="mt-4 text-sm text-center duration-1000  text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
                   Github
@@ -50,7 +50,7 @@ export default function Contact() {
               </span>{" "}
               <div className="z-10 flex flex-col items-center">
                 <span className="text-xl sm:text-md font-medium duration-150 lg:text-xl xl:text-2xl  text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
-                  MohamedBoukthir
+                  alwaz-qazi
                 </span>
                 <span className="mt-4 text-sm text-center duration-1000  text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
                   LinkedIn
@@ -73,7 +73,7 @@ export default function Contact() {
               </span>{" "}
               <div className="z-10 flex flex-col items-center">
                 <span className="text-xl sm:text-md font-medium duration-150 lg:text-xl xl:text-2xl text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
-                  Medboukthir7@gmail.com
+                  alwazkazi3@gmail.com
                 </span>
                 <span className="mt-4 text-sm text-center duration-1000 text-black group-hover:text-black font-display dark:text-zinc-200 dark:group-hover:text-white font-display">
                   E-mail
