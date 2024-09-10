@@ -17,7 +17,7 @@ export const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mohamedboukthir.vercel.app/"),
+  metadataBase: new URL("https://alwazqazi-portfolio.vercel.app"),
   title: "Alwaz Qazi | Portfolio",
   description:
     "Transforming ideas into Products. Join me on this exciting digital journey.",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     title: "Alwaz Qazi | Portfolio",
     description:
       "Transforming ideas into Products. Join me on this exciting digital journey.",
-    url: "https://mohamedboukthir.vercel.app/",
+    url: "https://alwazqazi-portfolio.vercel.app",
     siteName: "mohamedboukthir.vercel.app",
     type: "website",
     images: [
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://mohamedboukthir.vercel.app/",
+    canonical: "https://alwazqazi-portfolio.vercel.app",
   },
   category: "programming",
 };

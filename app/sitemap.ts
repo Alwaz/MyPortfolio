@@ -1,7 +1,7 @@
 import { projects } from "@/constants/projects";
 
 export default function sitemap() {
-  const baseUrl = "https://mohamedboukthir.vercel.app";
+  const baseUrl = "https://alwazqazi-portfolio.vercel.app";
   const projectsUrl = projects.map((project) => {
     return {
       url: `${baseUrl}/projects/${project.slug}`,

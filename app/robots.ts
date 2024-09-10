@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/private/",
     },
-    sitemap: ["https://mohamedboukthir.vercel.app/sitemap.xml"],
+    sitemap: ["https://alwazqazi-portfolio.vercel.app/sitemap.xml"],
   };
 }
