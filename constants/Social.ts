@@ -1,16 +1,14 @@
 const social = {
-  title: "Mohamed Boukthir",
-  author: "Mohamed Boukthir",
-  headerTitle: "mohamedboukthir",
+  title: "Alwaz Qazi",
+  author: "Alwaz Qazi",
+  headerTitle: "alwazqazi",
   description: "Software Developer",
   language: "en-us",
   theme: "dark", // system, dark or light
-  email: "medboukthir7@gmail.com",
-  github: "https://github.com/MohamedBoukthir",
-  facebook: "https://www.facebook.com/mo74med.b",
-  linkedin: "https://www.linkedin.com/in/mohamedboukthir/",
-  spotify: "https://open.spotify.com/user/31nsehshomjimjzivqmjxu4dmhvu",
-  locale: "tn-TN",
+  email: "alwazkazi3@gmail.com",
+  github: "https://github.com/Alwaz",
+  linkedin: "https://www.linkedin.com/in/alwaz-qazi/",
+  locale: "en",
 };
 
 export default social;
