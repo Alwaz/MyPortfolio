@@ -1,31 +1,31 @@
-import Iset from "../public/iset.jpg";
-import Enactus from "../public/enactus.png";
+import Labvent from "../public/labvent_logo.jpeg";
+import CB from "../public/creditbookpk_logo.jpeg";
 
 export const experience = [
   {
-    company: "Iset Mahdia",
-    position: "Full Stack Developer",
-    time: "Dec 2022 - May 2023",
+    company: "Labvent",
+    position: "Frontend Engineer",
+    time: "Jul 2023 - Present",
     description:
-      "A collaboration between ISET Mahdia and ISSAT Mahdia has resulted in a modern and secure solution aimed at optimizing internship and training processes",
+      "Working on multiple web and mobile app development projects across various technologies to ensure their successful execution and delivery.",
     task: [
-      "Frontend Development and UI Enhancement",
-      "Feature Implementation with Node.js and Express.js",
-      "Version Control and Collaboration.",
+      "Leading and managing end-to-end execution of significant projects independently, making architectural and design decisions",
+      "Demonstrating adaptability to evolving client requirements, ensuring high client satisfaction.",
+      "Translating designs and wireframes into pixel-perfect and responsive code",
     ],
-    logo: Iset,
+    logo: Labvent,
   },
   {
-    company: "Enactus",
-    position: "Marketing Team Leader",
-    time: " Nov 2020 - Jun 2021",
+    company: "CreditBook",
+    position: "Full Stack Software Engineer",
+    time: " May 2022 - Jul 2023",
     description:
-      "As a accomplished professional, I stand out with effective communication and seamless collaboration. My adaptability and efficient time management enable innovative problem-solving.",
+      "Worked towards improving financial outcomes for entrepreneurs across Pakistan.",
     task: [
-      "Optimize Project Timelines.",
-      "Develop Adaptive Project Strategies.",
-      "Implement Creative Problem-Solving Workshops.",
+      "Developed, optimized, and maintained large-scale mobile application built with React Native.",
+      "Automated contract generation process, that resulted in a 99% reduction in contract generation time.",
+      "Improved code quality through refactoring of React Native codebase, enhancing readability, and modularity, and eliminating redundancy for a more maintainable and robust codebase.",
     ],
-    logo: Enactus,
+    logo: CB,
   },
 ];
