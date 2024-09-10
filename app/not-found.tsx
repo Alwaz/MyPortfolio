@@ -5,8 +5,8 @@ import Link from "next/link";
 // TODO: Comment out when https://github.com/vercel/next.js/issues/50566 is fixed.
 
 export const metadata = {
-  title: "404 - Mohamed Boukthir",
-  description: "Not Found - Mohamed Boukthir",
+  title: "404 - Alwaz Qazi",
+  description: "Not Found - Alwaz Qazi",
 };
 
 export default function FourZeroFour() {
@@ -22,7 +22,8 @@ export default function FourZeroFour() {
           Sorry we couldn&apos;t find this page.
         </p>
         <p className="mb-8">
-          But dont worry, you can find plenty of other things on our homepage.
+          But don&apos;t worry, you can find plenty of other things on our
+          homepage.
         </p>
         <Button>
           <Link href="/">Back to Home &rarr;</Link>
