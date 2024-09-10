@@ -24,27 +24,27 @@ export const projects: Project[] = [
     url: "https://www.selectsuite.net",
     repository: "",
   },
-  {
-    slug: "swiftwheels",
-    title: "SwiftWheels",
-    brief:
-      "Redefining car rentals with a dynamic web app that offers seamless booking, real-time availability, and an intuitive user interface.",
-    description:
-      "SwiftWheels is a powerful Car Rental Project! I'll show you how to build a dynamic web app with Spring Boot, Angular, daisy UI, tailwindCSS, and MySQL.",
-    image: Swiftwheels,
-    stack: [
-      "Java",
-      "Spring Boot",
-      "Spring Security",
-      "Spring Data JPA",
-      "TypeScript",
-      "MySQL",
-      "Angular",
-      "Tailwind CSS",
-    ],
-    url: "",
-    repository: "https://github.com/MohamedBoukthir/Car_Rental",
-  },
+  // {
+  //   slug: "swiftwheels",
+  //   title: "SwiftWheels",
+  //   brief:
+  //     "Redefining car rentals with a dynamic web app that offers seamless booking, real-time availability, and an intuitive user interface.",
+  //   description:
+  //     "SwiftWheels is a powerful Car Rental Project! I'll show you how to build a dynamic web app with Spring Boot, Angular, daisy UI, tailwindCSS, and MySQL.",
+  //   image: Swiftwheels,
+  //   stack: [
+  //     "Java",
+  //     "Spring Boot",
+  //     "Spring Security",
+  //     "Spring Data JPA",
+  //     "TypeScript",
+  //     "MySQL",
+  //     "Angular",
+  //     "Tailwind CSS",
+  //   ],
+  //   url: "",
+  //   repository: "https://github.com/MohamedBoukthir/Car_Rental",
+  // },
   // {
   //   slug: "wave",
   //   title: "Wave",
