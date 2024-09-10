@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     description:
       "Transforming ideas into Products. Join me on this exciting digital journey.",
     url: "https://alwazqazi-portfolio.vercel.app",
-    siteName: "mohamedboukthir.vercel.app",
+    siteName: "alwazqazi-portfolio.vercel.app",
     type: "website",
     images: [
       {
