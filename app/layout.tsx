@@ -18,12 +18,13 @@ export const fontSans = FontSans({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://mohamedboukthir.vercel.app/"),
-  title: "Mohamed Boukthir | Portfolio",
+  title: "Alwaz Qazi | Portfolio",
   description:
     "Building the future with creativity and caffeine. Join me on this exciting digital journey.",
   openGraph: {
-    title: "Mohamed Boukthir | Portfolio",
-    description: "Building the future with creativity and caffeine. Join me on this exciting digital journey.",
+    title: "Alwaz Qazi | Portfolio",
+    description:
+      "Building the future with creativity and caffeine. Join me on this exciting digital journey.",
     url: "https://mohamedboukthir.vercel.app/",
     siteName: "mohamedboukthir.vercel.app",
     type: "website",
