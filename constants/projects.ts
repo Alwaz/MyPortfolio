@@ -1,8 +1,30 @@
 import { Project } from "@/Interface/projects";
 import SS from "../public/selectsuite.png";
 import SAAS from "../public/landing-page.png";
+import FDS from "../public/fds.png";
 
 export const projects: Project[] = [
+  {
+    slug: "fastdatascience",
+    title: "Clinical Trial Risk Tool",
+    brief:
+      "The Clinical Trial Risk Tool by Fast Data Science is a dashboard designed to analyze clinical trial protocols and estimate the cost in dollars and the risk of the trial ending uninformatively.",
+    description:
+      "The Clinical Trial Risk Tool helps users estimate the cost and risk of clinical trials by analyzing uploaded PDF documents. It provides quick estimates without requiring a login and allows users to adjust settings for more accurate results. Users can view document history, compare original files with analysis, and easily spot important sections using visual highlights and heatmaps. Role-based access keeps the platform secure for different user types, while guest mode lets anyone explore the tool. These features make complex data easy to understand, helping teams make faster and better decisions.",
+    image: FDS,
+    stack: [
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Material tailwind",
+      "D3.js",
+      "Axios",
+      "ESLint",
+      "Jotai",
+    ],
+    url: "https://clinical.fastdatascience.com/",
+    repository: "",
+  },
   {
     slug: "selectsuite",
     title: "SelectSuite",
@@ -35,25 +57,7 @@ export const projects: Project[] = [
     url: "https://saas-landing-page-sigma-pink.vercel.app/",
     repository: "https://github.com/Alwaz/saas-landing-page",
   },
-  // {
-  //   slug: "wave",
-  //   title: "Wave",
-  //   brief: "Share thoughts in a snap, connect with friends, and stay updated.",
-  //   description:
-  //     "Meet Wave – share your thoughts in a snap, connect with friends, and stay updated with what's happening. It's social media made easy.",
-  //   image: Wave,
-  //   stack: [
-  //     "React",
-  //     "Next.js",
-  //     "TypeScript",
-  //     "MongoDB",
-  //     "Node.js",
-  //     "Clerk",
-  //     "Tailwind CSS",
-  //   ],
-  //   url: "https://wave-pi.vercel.app/",
-  //   repository: "https://github.com/MohamedBoukthir/Wave",
-  // },
+
   // {
   //   slug: "medicare",
   //   title: "Medicare",
