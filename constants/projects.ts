@@ -1,6 +1,7 @@
 import { Project } from "@/Interface/projects";
 import SS from "../public/selectsuite.png";
 import SAAS from "../public/landing-page.png";
+import ZIARAT from "../public/ziarat-landing-page.png";
 import FDS from "../public/fds.png";
 
 export const projects: Project[] = [
@@ -26,6 +27,36 @@ export const projects: Project[] = [
     repository: "",
   },
   {
+    slug: "ziarat-landing-page",
+    title: "Ziarat landing page",
+    brief:
+      "Designed and developed a fully responsive landing page for a pre-seed startup to help build their online presence.",
+    description:
+      "Worked closely with the founding team to understand their vision and goals, incorporating their feedback and ideas into the website's design.",
+    image: ZIARAT,
+    stack: [
+      "ReactJS",
+      "Typescript",
+      "Firebase",
+      "Tailwind CSS",
+      "Figma(Software)",
+      "UI/UX",
+    ],
+    url: "https://ziarat.xyz/s",
+    repository: "",
+  },
+  {
+    slug: "saas-animated-landing-page",
+    title: "Saas landing page",
+    brief: "An animated Saas landing page using NextJs and framer motion.",
+    description:
+      "An animated Saas landing page using NextJs, tailwindCSS and framer motion.",
+    image: SAAS,
+    stack: ["NextJs", "Typescript", "Framer motion", "Tailwind CSS"],
+    url: "https://saas-landing-page-sigma-pink.vercel.app/",
+    repository: "https://github.com/Alwaz/saas-landing-page",
+  },
+  {
     slug: "selectsuite",
     title: "SelectSuite",
     brief:
@@ -45,17 +76,6 @@ export const projects: Project[] = [
     ],
     url: "https://www.selectsuite.net",
     repository: "",
-  },
-  {
-    slug: "saas-animated-landing-page",
-    title: "Saas landing page",
-    brief: "An animated Saas landing page using NextJs and framer motion.",
-    description:
-      "An animated Saas landing page using NextJs, tailwindCSS and framer motion.",
-    image: SAAS,
-    stack: ["NextJs", "Typescript", "Framer motion", "Tailwind CSS"],
-    url: "https://saas-landing-page-sigma-pink.vercel.app/",
-    repository: "https://github.com/Alwaz/saas-landing-page",
   },
 
   // {
